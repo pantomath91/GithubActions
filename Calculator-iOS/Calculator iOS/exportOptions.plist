@@ -10,8 +10,8 @@
 	<true/>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.tiagosanto.calculatorIOS</key>
-		<string>match AppStore com.tiagosanto.calculatorIOS</string>
+		<key>com.netspend.calculatorIOS</key>
+		<string>match AppStore com.netspend.mobileapp.ual</string>
 	</dict>
 </dict>
 </plist>

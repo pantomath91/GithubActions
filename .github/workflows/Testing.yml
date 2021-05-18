@@ -1,8 +1,8 @@
 name: Testing
 on:
-  pull_request:
+  push:
     branches:
-    - master
+      - master
 jobs:
   test:
     name: Testing Swift Package and iOS app
